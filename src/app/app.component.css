@@ -1,0 +1,21 @@
+body {
+    padding-bottom: 30px;
+}
+h1 {
+    text-align: center;
+    height: 60px;
+    margin-bottom: 40px;
+    font-style: italic;
+}
+footer {
+    width: 100% ;
+    height: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #97a1ac; 
+    text-align: center;
+    font-style: italic;    
+}
+nav {
+    font-style: italic;
+}

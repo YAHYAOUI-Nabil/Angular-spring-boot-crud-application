@@ -1,0 +1,14 @@
+.container {
+    padding-bottom: 144px;
+}
+h2 {
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+h6 {
+    margin-left: 10px;
+    font-style: italic;
+    font-size: larger;
+}

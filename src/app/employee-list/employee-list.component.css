@@ -1,0 +1,17 @@
+button {
+    font-style: italic;
+}
+.container {
+    
+    padding-bottom: 252px;
+}
+h2 {
+    color: blue;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-style: italic;
+}
+table {
+    margin-left: 10px;
+    font-style: italic;
+}
